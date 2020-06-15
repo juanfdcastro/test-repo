@@ -1,0 +1,1 @@
+This is a plain-text file to play around with Git and GitHub 
